@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=Netra1_3 Pin=ra1-4
+Removed Pin From Net: NetName=Netra1_3 Pin=RL19-3
+Added Pin To Net: NetName=Netra1_4 Pin=ra1-4
+Added Pin To Net: NetName=Netra1_4 Pin=RL19-3
+Added Net: Name=Netra1_4
+Added Member To Class: ClassName=Sheet2 Member=Component RL8 Relay 10A/12V

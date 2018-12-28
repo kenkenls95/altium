@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetC21_1 Pin=cau chi-1
+Removed Pin From Net: NetName=VCC Pin=R98-2
+Added Pin To Net: NetName=VCC Pin=cau chi-2
+Added Pin To Net: NetName=NetC21_1 Pin=R98-1
+Added Pin To Net: NetName=Netcau chi_1 Pin=cau chi-1
+Added Pin To Net: NetName=Netcau chi_1 Pin=R98-2
+Added Net: Name=Netcau chi_1

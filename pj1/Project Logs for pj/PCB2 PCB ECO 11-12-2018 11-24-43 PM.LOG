@@ -1,0 +1,115 @@
+Removed Pin From Net: NetName=NetC1_3 Pin=C1-3
+Removed Pin From Net: NetName=NetC2_2 Pin=R3-1
+Removed Pin From Net: NetName=NetC1_2 Pin=R4-1
+Removed Pin From Net: NetName=NetC4_2 Pin=R9-1
+Removed Pin From Net: NetName=NetC3_2 Pin=R10-1
+Removed Pin From Net: NetName=NetC5_2 Pin=R15-1
+Removed Pin From Net: NetName=NetC6_2 Pin=R16-1
+Removed Pin From Net: NetName=NetC8_2 Pin=R21-1
+Removed Pin From Net: NetName=NetC7_2 Pin=R22-1
+Removed Pin From Net: NetName=NetC10_2 Pin=R27-1
+Removed Pin From Net: NetName=NetC9_2 Pin=R28-1
+Removed Pin From Net: NetName=NetC12_2 Pin=R33-1
+Removed Pin From Net: NetName=NetC11_2 Pin=R34-1
+Removed Pin From Net: NetName=NetC14_2 Pin=R39-1
+Removed Pin From Net: NetName=NetC13_2 Pin=R40-1
+Removed Pin From Net: NetName=NetC15_2 Pin=R45-1
+Removed Pin From Net: NetName=NetC16_2 Pin=R46-1
+Removed Pin From Net: NetName=NetC18_2 Pin=R51-1
+Removed Pin From Net: NetName=NetC17_2 Pin=R52-1
+Removed Pin From Net: NetName=NetC20_2 Pin=R57-1
+Removed Pin From Net: NetName=NetC19_2 Pin=R58-1
+Removed Pin From Net: NetName=NetC1_3 Pin=RL2-3
+Removed Pin From Net: NetName=NetC5_1 Pin=RL5-2
+Removed Pin From Net: NetName=NetC6_1 Pin=RL6-2
+Removed Pin From Net: NetName=NetC10_1 Pin=RL9-2
+Removed Pin From Net: NetName=NetC9_1 Pin=RL10-2
+Removed Pin From Net: NetName=NetC12_1 Pin=RL11-2
+Removed Pin From Net: NetName=NetC11_1 Pin=RL12-2
+Removed Pin From Net: NetName=NetC15_1 Pin=RL15-2
+Removed Pin From Net: NetName=NetC16_1 Pin=RL16-2
+Change Component Footprint: Designator=C1 Old Footprint=HDR3 New Footprint=HDR2
+Change Component Footprint: Designator=C2 Old Footprint=HDR3 New Footprint=HDR2
+Change Component Footprint: Designator=C3 Old Footprint=HDR3 New Footprint=HDR2
+Change Component Footprint: Designator=C4 Old Footprint=HDR3 New Footprint=HDR2
+Change Component Footprint: Designator=C5 Old Footprint=HDR3 New Footprint=HDR2
+Change Component Footprint: Designator=C6 Old Footprint=HDR3 New Footprint=HDR2
+Change Component Footprint: Designator=C7 Old Footprint=HDR3 New Footprint=HDR2
+Change Component Footprint: Designator=C8 Old Footprint=HDR3 New Footprint=HDR2
+Change Component Footprint: Designator=C9 Old Footprint=HDR3 New Footprint=HDR2
+Change Component Footprint: Designator=C10 Old Footprint=HDR3 New Footprint=HDR2
+Change Component Footprint: Designator=C11 Old Footprint=HDR3 New Footprint=HDR2
+Change Component Footprint: Designator=C12 Old Footprint=HDR3 New Footprint=HDR2
+Change Component Footprint: Designator=C13 Old Footprint=HDR3 New Footprint=HDR2
+Change Component Footprint: Designator=C14 Old Footprint=HDR3 New Footprint=HDR2
+Change Component Footprint: Designator=C15 Old Footprint=HDR3 New Footprint=HDR2
+Change Component Footprint: Designator=C16 Old Footprint=HDR3 New Footprint=HDR2
+Change Component Footprint: Designator=C17 Old Footprint=HDR3 New Footprint=HDR2
+Change Component Footprint: Designator=C18 Old Footprint=HDR3 New Footprint=HDR2
+Change Component Footprint: Designator=C19 Old Footprint=HDR3 New Footprint=HDR2
+Change Component Footprint: Designator=C20 Old Footprint=HDR3 New Footprint=HDR2
+Change Component Comment : Designator=C1 Old Comment=Header3 New Comment=Header2
+Change Component Comment : Designator=C2 Old Comment=Header3 New Comment=Header2
+Change Component Comment : Designator=C3 Old Comment=Header3 New Comment=Header2
+Change Component Comment : Designator=C4 Old Comment=Header3 New Comment=Header2
+Change Component Comment : Designator=C5 Old Comment=Header3 New Comment=Header2
+Change Component Comment : Designator=C6 Old Comment=Header3 New Comment=Header2
+Change Component Comment : Designator=C7 Old Comment=Header3 New Comment=Header2
+Change Component Comment : Designator=C8 Old Comment=Header3 New Comment=Header2
+Change Component Comment : Designator=C9 Old Comment=Header3 New Comment=Header2
+Change Component Comment : Designator=C10 Old Comment=Header3 New Comment=Header2
+Change Component Comment : Designator=C11 Old Comment=Header3 New Comment=Header2
+Change Component Comment : Designator=C12 Old Comment=Header3 New Comment=Header2
+Change Component Comment : Designator=C13 Old Comment=Header3 New Comment=Header2
+Change Component Comment : Designator=C14 Old Comment=Header3 New Comment=Header2
+Change Component Comment : Designator=C15 Old Comment=Header3 New Comment=Header2
+Change Component Comment : Designator=C16 Old Comment=Header3 New Comment=Header2
+Change Component Comment : Designator=C17 Old Comment=Header3 New Comment=Header2
+Change Component Comment : Designator=C18 Old Comment=Header3 New Comment=Header2
+Change Component Comment : Designator=C19 Old Comment=Header3 New Comment=Header2
+Change Component Comment : Designator=C20 Old Comment=Header3 New Comment=Header2
+Added Pin To Net: NetName=NetC1_3 Pin=R3-1
+Added Pin To Net: NetName=NetC1_3 Pin=R9-1
+Added Pin To Net: NetName=NetC1_3 Pin=R15-1
+Added Pin To Net: NetName=NetC1_3 Pin=R21-1
+Added Pin To Net: NetName=NetC1_3 Pin=R27-1
+Added Pin To Net: NetName=NetC1_3 Pin=R28-1
+Added Pin To Net: NetName=NetC1_3 Pin=R33-1
+Added Pin To Net: NetName=NetC1_3 Pin=R34-1
+Added Pin To Net: NetName=NetC1_3 Pin=R39-1
+Added Pin To Net: NetName=NetC1_3 Pin=R40-1
+Added Pin To Net: NetName=NetC1_3 Pin=R45-1
+Added Pin To Net: NetName=NetC1_3 Pin=R46-1
+Added Pin To Net: NetName=NetC1_3 Pin=R51-1
+Added Pin To Net: NetName=NetC1_3 Pin=R52-1
+Added Pin To Net: NetName=NetC1_3 Pin=R57-1
+Added Pin To Net: NetName=NetC1_3 Pin=R58-1
+Added Pin To Net: NetName=NetC2_2 Pin=RL1-3
+Added Pin To Net: NetName=NetC1_2 Pin=RL2-3
+Added Pin To Net: NetName=NetC3_2 Pin=RL3-3
+Added Pin To Net: NetName=NetC4_2 Pin=RL4-3
+Added Pin To Net: NetName=NetC6_1 Pin=RL5-2
+Added Pin To Net: NetName=NetC6_2 Pin=RL5-3
+Added Pin To Net: NetName=NetC5_1 Pin=RL6-2
+Added Pin To Net: NetName=NetC5_2 Pin=RL6-3
+Added Pin To Net: NetName=NetC7_2 Pin=RL7-3
+Added Pin To Net: NetName=NetC8_2 Pin=RL8-3
+Added Pin To Net: NetName=NetC9_1 Pin=RL9-2
+Added Pin To Net: NetName=NetC9_2 Pin=RL9-3
+Added Pin To Net: NetName=NetC10_1 Pin=RL10-2
+Added Pin To Net: NetName=NetC10_2 Pin=RL10-3
+Added Pin To Net: NetName=NetC11_1 Pin=RL11-2
+Added Pin To Net: NetName=NetC11_2 Pin=RL11-3
+Added Pin To Net: NetName=NetC12_1 Pin=RL12-2
+Added Pin To Net: NetName=NetC12_2 Pin=RL12-3
+Added Pin To Net: NetName=NetC13_2 Pin=RL13-3
+Added Pin To Net: NetName=NetC14_2 Pin=RL14-3
+Added Pin To Net: NetName=NetC16_1 Pin=RL15-2
+Added Pin To Net: NetName=NetC16_2 Pin=RL15-3
+Added Pin To Net: NetName=NetC15_1 Pin=RL16-2
+Added Pin To Net: NetName=NetC15_2 Pin=RL16-3
+Added Pin To Net: NetName=NetC17_2 Pin=RL17-3
+Added Pin To Net: NetName=NetC18_2 Pin=RL18-3
+Added Pin To Net: NetName=NetC20_2 Pin=RL19-3
+Added Pin To Net: NetName=NetC19_2 Pin=RL20-3
+Change Net Name : Old Net Name=NetC1_3 New Net Name=NetR3_1

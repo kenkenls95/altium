@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=JP? NewDesignator=JP1
+Add component (AddParameter): Name = "Value"; Value = "Connector 10"; VariantName = "[No Variations]"
+Added Component: Designator=JP2(Header10)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Connector 10"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet2 Member=Component JP2 JP10

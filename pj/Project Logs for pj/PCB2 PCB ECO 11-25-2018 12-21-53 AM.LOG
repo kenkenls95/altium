@@ -1,5 +1,0 @@
-Add component (AddParameter): Name = "Value"; Value = "Connector 10"; VariantName = "[No Variations]"
-Added Component: Designator=JP?(Header10)
-Add component. Clean all parameters for all variants
-Add component (AddParameter): Name = "Value"; Value = "Connector 10"; VariantName = "[No Variations]"
-Added Member To Class: ClassName=Sheet2 Member=Component JP? JP10
